@@ -1,0 +1,9 @@
+{
+  "sites": {
+    "aem-eds-poc": {
+      "previewOrg": "pankajdatt250",
+      "previewSite": "aem-eds-poc",
+      "contentHostUrl": "https://content.da.live/pankajdatt250/aem-eds-poc/"
+    }
+  }
+}
